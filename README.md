@@ -22,7 +22,6 @@ Install dependencies: pip install -r requirements.txt
 Run the server: python app.py
 
 Access the system through a web browser at http://localhost:5000.
-
 Usage
 Speak into the microphone to provide input in the source language.
 Wait for the system to transcribe the speech into text.
