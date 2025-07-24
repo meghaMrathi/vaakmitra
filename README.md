@@ -1,4 +1,4 @@
-# vaakmitra
+#VaakMitra
 the code base of an offline translator
 
 This project aims to develop an offline speech translation system to facilitate communication in regions with poor internet connectivity. The system utilizes AI-based techniques for speech recognition and translation, allowing users to converse in different languages without requiring an internet connection.
@@ -15,7 +15,10 @@ Flask: Lightweight web framework for building the server-side component of the s
 Raspberry Pi: Hardware platform used for deploying the offline translator system.
 Vosk: State-of-the-art speech recognition toolkit optimized for Raspberry Pi.
 Installation
-Clone the repository into raspberry pi4: git clone https://github.com/DaSeeker67/vaakmitra
+Clone the repository into raspberry pi4: git clone https://github.com/meghaMrathi/vaakmitra
+
+Installation
+Clone the repository into raspberry pi4: git clone https://github.com/meghaMrathi/vaakmitra
 
 Install dependencies: pip install -r requirements.txt
 
