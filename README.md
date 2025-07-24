@@ -1,5 +1,6 @@
 #VaakMitra
-the code base of an offline translator
+
+The code base of an offline translator
 
 This project aims to develop an offline speech translation system to facilitate communication in regions with poor internet connectivity. The system utilizes AI-based techniques for speech recognition and translation, allowing users to converse in different languages without requiring an internet connection.
 
